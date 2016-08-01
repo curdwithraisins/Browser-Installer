@@ -1,6 +1,8 @@
 # Browser-Installer
-Проект позволяет установить браузер на ваш компьютер, в меню "Пуск" и на рабочий стол, а так же делает его браузером по умолчанию. Учитывается две локализации.
-Удалить браузер можно, как через меню "Панель управления", так и стандартным деинсталятором, находящимся в папке с установленным приложением.
-Код деинсталятора представлен в папке Uninstall.
+Lets upload and install your own browser on a computer, to Start menu and Desktop. Also make it a default.
+
+Include two localisations.
+
+Uninstall is attached. Delete can be done through Сontrol Panel as well. 
 
 ![preview](https://dl.dropboxusercontent.com/u/37751316/browser-installer.JPG)
